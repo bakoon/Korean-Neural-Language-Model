@@ -1,0 +1,107 @@
+
+vocab size : 276877
+new_model
+09142250 epoch 1loss: 6.058 ppl: 427.315 time: 22858.165s save_model
+09150511 epoch 2loss: 5.852 ppl: 347.819 time: 22808.564s save_model
+09151131 epoch 3loss: 5.730 ppl: 308.057 time: 22826.139s save_model
+09151751 epoch 4loss: 5.664 ppl: 288.381 time: 22908.460s save_model
+09160013 epoch 5loss: 5.625 ppl: 277.315 time: 22823.280s save_model
+09160634 epoch 6loss: 5.596 ppl: 269.389 time: 22941.507s save_model
+09161256 epoch 7loss: 5.561 ppl: 260.102 time: 22749.909s save_model
+09161915 epoch 8loss: 5.549 ppl: 256.868 time: 22746.796s save_model
+09170135 epoch 9loss: 5.534 ppl: 253.073 time: 23052.226s save_model
+09170759 epoch 10loss: 5.518 ppl: 249.145 time: 23000.935s save_model
+09171422 epoch 11loss: 5.518 ppl: 249.143 time: 22834.602s save_model
+09172043 epoch 12loss: 5.504 ppl: 245.701 time: 22991.780s save_model
+09180306 epoch 13loss: 5.501 ppl: 245.015 time: 22880.640s save_model
+09180927 epoch 14loss: 5.519 ppl: 249.298 time: 22868.536s keep_train
+09181549 epoch 15loss: 5.491 ppl: 242.585 time: 23231.587s save_model
+09182216 epoch 16loss: 5.508 ppl: 246.588 time: 22808.028s keep_train
+09190436 epoch 17loss: 5.496 ppl: 243.665 time: 23089.945s change_learning_rate
+09191101 epoch 18loss: 5.406 ppl: 222.634 time: 23245.011s save_model
+09191728 epoch 19loss: 5.380 ppl: 217.012 time: 22742.213s save_model
+09192347 epoch 20loss: 5.371 ppl: 215.003 time: 22640.283s save_model
+09200605 epoch 21loss: 5.353 ppl: 211.220 time: 22766.003s save_model
+09201224 epoch 22loss: 5.348 ppl: 210.214 time: 22829.015s save_model
+09201845 epoch 23loss: 5.335 ppl: 207.383 time: 22756.359s save_model
+09210104 epoch 24loss: 5.328 ppl: 206.112 time: 22808.870s 
+vocab size : 276877
+new_model
+09222020 epoch 1 
+vocab size : 276877
+load_model
+09222022 epoch 25 loss: 5.321 ppl: 204.501 time: 22688.236s save_model
+09230240 epoch 26 loss: 5.317 ppl: 203.753 time: 18451.844s save_model
+09230748 epoch 27 loss: 5.311 ppl: 202.498 time: 21258.681s 
+vocab size : 276877
+load_model
+09232139 epoch 28 loss: 5.305 ppl: 201.323 time: 22722.862s save_model
+09240358 epoch 29 loss: 5.296 ppl: 199.592 time: 24037.823s save_model
+09241039 epoch 30 loss: 5.291 ppl: 198.576 time: 20962.364s save_model
+09241628 epoch 31 loss: 5.287 ppl: 197.797 time: 22776.287s save_model
+09242248 epoch 32 loss: 5.281 ppl: 196.538 time: 28725.800s save_model
+09250646 epoch 33 loss: 5.274 ppl: 195.219 time: 28427.507s save_model
+09251440 epoch 34 loss: 5.268 ppl: 194.022 time: 28826.541s save_model
+09252241 epoch 35 loss: 5.265 ppl: 193.471 time: 28716.216s save_model
+09260639 epoch 36 loss: 5.261 ppl: 192.579 time: 28510.715s save_model
+09261435 epoch 37 loss: 5.258 ppl: 192.185 time: 27913.113s save_model
+09262220 epoch 38 loss: 5.256 ppl: 191.686 time: 28432.907s save_model
+09270614 epoch 39 loss: 5.251 ppl: 190.707 time: 28390.124s save_model
+09271407 epoch 40 loss: 5.249 ppl: 190.320 time: 29237.477s save_model
+09272214 epoch 41 loss: 5.241 ppl: 188.777 time: 28541.531s save_model
+09280610 epoch 42 loss: 5.239 ppl: 188.525 time: 28280.649s save_model
+09281402 epoch 43 loss: 5.242 ppl: 188.973 time: 28297.919s keep_train
+09282153 epoch 44 loss: 5.239 ppl: 188.498 time: 23215.190s save_model
+09290420 epoch 45 loss: 5.233 ppl: 187.404 time: 23092.659s save_model
+09291045 epoch 46 loss: 5.227 ppl: 186.220 time: 22782.672s save_model
+09291705 epoch 47 loss: 5.224 ppl: 185.723 time: 22603.326s save_model
+09292322 epoch 48 loss: 5.220 ppl: 184.975 time: 22789.801s save_model
+09300542 epoch 49 loss: 5.216 ppl: 184.229 time: 22730.021s save_model
+09301200 epoch 50 loss: 5.212 ppl: 183.411 time: 23306.595s save_model
+09301829 epoch 51 loss: 5.218 ppl: 184.543 time: 21242.392s keep_train
+10010023 epoch 52 loss: 5.211 ppl: 183.315 time: 17733.737s save_model
+10010519 epoch 53 loss: 5.208 ppl: 182.668 time: 14003.040s 
+vocab size : 276877
+10011147 epoch 54 loss: 5.206 ppl: 182.444 time: 18986.668s save_model
+10011704 epoch 55 loss: 5.200 ppl: 181.235 time: 22832.785s save_model
+10012324 epoch 56 loss: 5.209 ppl: 182.961 time: 26897.594s keep_train
+10020653 epoch 57 loss: 5.202 ppl: 181.674 time: 26650.153s change_learning_rate
+10021417 epoch 58 loss: 5.183 ppl: 178.214 time: 27011.429s save_model
+10022147 epoch 59 loss: 5.181 ppl: 177.935 time: 27055.367s save_model
+10030518 epoch 60 loss: 5.178 ppl: 177.385 time: 22533.345s save_model
+10031134 epoch 61 loss: 5.176 ppl: 177.045 time: 19719.119s save_model
+10031702 epoch 62 loss: 5.175 ppl: 176.728 time: 11919.585s save_model
+10032021 epoch 63 loss: 5.173 ppl: 176.499 time: 12050.716s save_model
+10032342 epoch 64 loss: 5.174 ppl: 176.676 time: 14910.734s keep_train
+10040351 epoch 65 loss: 5.171 ppl: 176.146 time: 22337.317s save_model
+10041003 epoch 66 loss: 5.170 ppl: 175.890 time: 22423.803s save_model
+10041617 epoch 67 loss: 5.167 ppl: 175.448 time: 22435.984s save_model
+10042231 epoch 68 loss: 5.168 ppl: 175.579 time: 25864.766s keep_train
+10050542 epoch 69 loss: 5.168 ppl: 175.581 time: 26466.100s change_learning_rate
+10051303 epoch 70 loss: 5.165 ppl: 174.994 time: 26410.458s save_model
+10052023 epoch 71 loss: 5.164 ppl: 174.903 time: 26632.120s save_model
+10060347 epoch 72 loss: 5.165 ppl: 175.043 time: 26352.184s keep_train
+10061106 epoch 73 loss: 5.164 ppl: 174.912 time: 26370.062s change_learning_rate
+10061826 epoch 74 loss: 5.164 ppl: 174.812 time: 24853.648s save_model
+10070120 epoch 75 loss: 5.164 ppl: 174.865 time: 18800.211s keep_train
+10070634 epoch 76 loss: 5.163 ppl: 174.728 time: 17350.000s save_model
+10071123 epoch 77 loss: 5.163 ppl: 174.750 time: 17542.772s keep_train
+10071615 epoch 78 loss: 5.163 ppl: 174.714 time: 17868.316s save_model
+10072113 epoch 79 loss: 5.163 ppl: 174.613 time: 18110.126s save_model
+10080215 epoch 80 loss: 5.163 ppl: 174.628 time: 17439.903s keep_train
+10080706 epoch 81 loss: 5.162 ppl: 174.582 time: 17501.748s save_model
+10081157 epoch 82 loss: 5.162 ppl: 174.600 time: 13752.927s keep_train
+10081547 epoch 83 loss: 5.162 ppl: 174.522 time: 12584.724s save_model
+10081916 epoch 84 loss: 5.162 ppl: 174.471 time: 12503.347s save_model
+10082245 epoch 85 loss: 5.162 ppl: 174.515 time: 13076.291s keep_train
+10090223 epoch 86 loss: 5.162 ppl: 174.482 time: 12676.604s change_learning_rate
+10090554 epoch 87 loss: 5.162 ppl: 174.544 time: 12557.644s keep_train
+10090923 epoch 88 
+vocab size : 276877
+10091146 epoch 1 loss: 5.163 ppl: 174.684 
+vocab size : 276877
+10251344 epoch 1 
+vocab size : 276877
+10251345 epoch 1 loss: 7.299 ppl: 1478.356 
+vocab size : 276877
+10251607 epoch 1 loss: 5.588 ppl: 267.232 
