@@ -1,0 +1,24 @@
+
+vocab size : 397138
+10041837 epoch 1 loss: 6.260 ppl: 523.208 time: 37418.515s save_model
+10050501 epoch 2 loss: 6.033 ppl: 417.026 time: 37476.882s save_model
+10051525 epoch 3 loss: 5.922 ppl: 373.210 time: 37497.302s save_model
+10060151 epoch 4 loss: 5.843 ppl: 344.722 time: 37461.587s save_model
+
+vocab size : 397138
+10091223 epoch 5 loss: 5.792 ppl: 327.619 time: 25063.643s save_model
+10091921 epoch 6 loss: 5.755 ppl: 315.912 time: 24408.670s save_model
+10100208 epoch 7 loss: 5.721 ppl: 305.293 time: 24332.768s save_model
+10100854 epoch 8 loss: 5.702 ppl: 299.574 time: 24778.930s save_model
+10101547 epoch 9 loss: 5.685 ppl: 294.398 time: 24366.240s save_model
+10102233 epoch 10 loss: 5.666 ppl: 288.877 time: 24065.093s save_model
+10110514 epoch 11 loss: 5.653 ppl: 285.273 time: 25274.524s save_model
+10111215 epoch 12 loss: 5.653 ppl: 285.213 time: 25870.597s save_model
+10111926 epoch 13 
+vocab size : 397138
+10251615 epoch 13 loss: 5.653 ppl: 285.069 time: 24230.743s save_model
+10252259 epoch 14 loss: 5.633 ppl: 279.582 time: 24074.520s save_model
+10260540 epoch 15 loss: 5.628 ppl: 278.163 time: 24098.834s save_model
+10261222 epoch 16 
+vocab size : 397138
+10261245 epoch 16 

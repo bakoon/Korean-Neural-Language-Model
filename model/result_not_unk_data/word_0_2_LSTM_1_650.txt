@@ -1,0 +1,3 @@
+
+vocab size : 520952
+10261235 epoch 1 

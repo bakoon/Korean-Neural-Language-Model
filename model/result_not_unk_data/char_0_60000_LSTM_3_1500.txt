@@ -1,0 +1,5 @@
+
+vocab size : 227
+10221603 epoch 1 
+vocab size : 227
+10221604 epoch 1 
